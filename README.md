@@ -3,4 +3,4 @@
 <h3><i>"Recriando a página inicial do Instagram"</i></h3>
 
 <h3>Preview:</h3>
-<img src="img/preview.png" style="width: 80%">
+<img src="img/preview.png">
